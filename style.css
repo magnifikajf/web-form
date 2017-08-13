@@ -1,0 +1,128 @@
+
+#header {
+    position: relative;
+    margin-right: 25px; 
+    margin-bottom: 10px; 
+    background-color: #2caa7e;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+	height: 40px;
+    box-shadow: 2px 2px 2px #4e685f; 
+    }
+
+
+h1 {
+    font-family: Lobster;
+    color: #FFFFFF;
+    text-align: center; 
+}
+
+form {
+    font-family: 'Lato', sans-serif, Arial, "Times New Roman";
+    font-size: 15px; 
+    color: #4f5256; 
+    font-weight: bold;
+    margin: 0px auto;
+    text-align: center; 
+    display: inline-block; 
+}
+
+p {
+    font-family: 'Lato', sans-serif, Arial, "Times New Roman";
+    display: inline-block;
+}
+
+input {
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+  background-color: #c1f2e1; 
+  padding: 5px; 
+  text-align: center;
+}
+
+input:focus {
+    background-color: #ebf4f1;
+}
+
+#text {
+	vertical-align: top;
+	width: 400px;
+	color: black; 
+    background-color: #c1f2e1; 
+    border-radius: 3px;
+    border: 1px solid black; 
+    box-shadow: 2px 2px 2px #4e685f; 
+    height: 50px; 
+}
+
+#text:focus {
+    background-color: #ebf4f1; 
+}
+
+#wrapper {
+    border-top: 1px solid #888;
+    border-left: 1px solid #888;
+    border-right: 1px solid #888;
+    border-bottom: 1px solid #888;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 3px #444;
+    font-family: 'Lato', sans-serif, Arial, "Times New Roman";
+    font-size: 0.8em;
+  box-sizing: border-box;
+  text-align: center; 
+    margin: 0 auto;  
+    width: 500px; 
+    margin-top: 30px; 
+    border: 1px solid #414c48; 
+}
+
+#inputs {
+	width: 180px;
+	clear: both;
+    text-align: center; 
+    margin: 0 auto; 
+    border-radius: 3px;
+}
+
+#inputs input {
+	width: 90%;
+	clear: both;
+  margin-top: 5px; 
+  margin-bottom: 10px;
+  border-radius: 3px;
+  padding: 10px;
+  border: 1px solid black; 
+  box-shadow: 2px 2px 2px #4e685f; 
+}
+
+#btn {
+    font-weight: bold;
+    background-color: #75c6a9;
+   margin : 0px auto;
+   border-radius: 3px;
+   box-shadow: 2px 2px 2px #4e685f; 
+   width: 100px;
+   height: 30px; 
+}
+
+#btn:hover {
+    cursor: pointer; 
+    border: 1px solid black; 
+    background-color: #87edcb; 
+}
+#btn:active {
+     border: 2px solid black; 
+    background-color: #87edcb;
+}
+#btn:focus {
+    border: 3px solid black;
+    background-color: #68d1ae; 
+}
+.box {
+    margin-top: 10px; 
+}
